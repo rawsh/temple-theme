@@ -1,4 +1,3 @@
-baseURL = "http://website-input-test.s3-website-us-east-1.amazonaws.com/"
 theme = "temple"
 languageCode = "en-us"
 title = "Rapid Static Demo"
